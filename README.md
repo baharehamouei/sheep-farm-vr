@@ -24,8 +24,8 @@ as one coherent experience. This project was built around that challenge.
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Preview](Preview.png)
+
 
 ---
 
